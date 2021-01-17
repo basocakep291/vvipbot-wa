@@ -1450,7 +1450,6 @@ Silakan pilih :
 
 
 }
-//Hay gay
-//create @agusalnsyh don't delate this please
+//Hay guys
 	
 })
